@@ -1,5 +1,5 @@
 <a href="https://www.continental.com/" target="_blank">
-<img src=".assets/continental-logo-1920x1080.png" width="300" />
+<img src=".assets/continental-logo-1920x1080.png" width="450" />
 </a>
 
 # Continental's HFL110 ROS Driver
