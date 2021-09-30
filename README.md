@@ -1,3 +1,7 @@
+<a href="https://www.continental.com/" target="_blank">
+<img src=".assets/continental-logo-1920x1080.png" width="300" />
+</a>
+
 # Continental's HFL110 ROS Driver
 This package was designed to be a [Robotic Operating System (ROS)](https://index.ros.org/about/) driver for [Continental's 3D Flash Lidar products](https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar).
 
