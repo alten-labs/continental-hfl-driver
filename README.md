@@ -7,7 +7,7 @@
 # High Resolution 3D Flash LiDAR™ - ROS Driver
 
 <a href="https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar" target="_blank">
-<img src=".assets/HFL110.png" width="300" title="HFL110" align="left" style="display: inline"/>
+<img src=".assets/HFL110.png" width="450" title="HFL110" align="left" style="display: inline"/>
 </a>
 
 This package was designed to be a [Robotic Operating System (ROS)](https://index.ros.org/about/) driver for [Continental's 3D Flash Lidar products](https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar).
