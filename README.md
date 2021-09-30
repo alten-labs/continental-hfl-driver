@@ -9,12 +9,9 @@ This package was designed to be a [Robotic Operating System (ROS)](https://index
 ## High Resolution 3D Flash LiDAR™
 
 <a href="https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar" target="_blank">
-<img src=".assets/HFL110.png" width="300" title="HFL110" style="display: block" />
+<img src=".assets/HFL110.png" width="400" title="HFL110" align="left" style="display: inline" />
 </a>
 
-<a href="https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar" target="_blank">
-<img src=".assets/flash-lidar.jpeg" width="300" title="HFL110" style="display: block" />
-</a>
 
 Continental’s High-Resolution 3D Flash LIDAR™ (HFL) with 3D Global Shutter™ enables the Future of Machine Vision.  Addressing application areas in automotive, commercial vehicles, agriculture, construction, mining, UAV delivery, Infrastructure Inspection and more, the HFL110 short range sensor is available for sampling.
 
