@@ -9,7 +9,7 @@ This package was designed to be a [Robotic Operating System (ROS)](https://index
 ## High Resolution 3D Flash LiDAR™
 
 <a href="https://www.continental-automotive.com/en-gl/Passenger-Cars/Autonomous-Mobility/Enablers/Lidars/3D-Flash-Lidar" target="_blank">
-<img src=".assets/HFL110.png" width="450" title="HFL110" />
+<img src=".assets/HFL110.png" width="300" title="HFL110" />
 </a>
 
 
