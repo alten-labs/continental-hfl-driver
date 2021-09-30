@@ -14,6 +14,18 @@ This package was designed to be a [Robotic Operating System (ROS)](https://index
 
 Continental’s High-Resolution 3D Flash LIDAR™ (HFL) with 3D Global Shutter™ enables the Future of Machine Vision.  Addressing application areas in automotive, commercial vehicles, agriculture, construction, mining, UAV delivery, Infrastructure Inspection and more, the HFL110 short range sensor is available for sampling.
 
+### Technical Specifications
+* Class 1 Eye-Safe 1064nm Laser
+* Field of View (120° x 30°)
+* Resolution: 128 x 32 (4096) pixels
+* Dimensions: 100 x 120 x 65 mm
+* Sensor Head Mass:~750 g
+* Frame Rate: up to 25Hz
+* Exp. Temp. Range: -30° to  +85°
+* Storage Temp. Range: -40° to  +105°
+* Supply Voltage: 12V
+* Gigabit Ethernet + PTP support
+
 
 
 ## Supported Platforms & Releases
